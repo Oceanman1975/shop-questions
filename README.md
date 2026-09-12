@@ -1,2 +1,1 @@
-# shop-questions
-Simple shop questions form
+Shop questions form.
